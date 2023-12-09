@@ -24,3 +24,33 @@ h1 {
   border-radius: 10px;
   margin-top: 150px;
 }
+media (max-width: 920px) {
+  h1 {
+    font-size: 80px;
+  }
+}
+@media (max-width: 800px) {
+  h1 {
+    font-size: 60px;
+  }
+}
+@media (max-width: 680px) {
+  h1 {
+    font-size: 40px;
+    margin-top: 60px;
+  }
+  div{
+    margin-top: 300px;
+    padding: 0px;
+  }
+}
+@media (max-width: 240px) {
+  h1 {
+    font-size: 30px;
+  }
+}
+@media (max-width: 240px) {
+  h1 {
+    font-size: 15px;
+  }
+}
