@@ -5,7 +5,7 @@
 }
 
 body {
-  background: linear-gradient(to right, #bbd2c5, #536976, #292e49); /* Chrome 10-25, Safari 5.1-6 */
+  background: background: #cccfe6;
   display: flex;
   justify-content: center;
   width: 100%;
